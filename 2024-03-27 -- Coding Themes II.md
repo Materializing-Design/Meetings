@@ -1,0 +1,48 @@
+# GaR Meeting 
+
+- Idea of creating a code glossary that we can collectively edit and alter
+	- Such a glossary might allow us to do auto-coding within Ponte
+	- E.g. any changes to journal.md could automatically add a “journaling” tag
+- **Matt B**: decision or action  
+	- Different from refining or feature
+	- Not attached to a significant code change, but rather part of the journaling process
+	- How will this code map in relationship to codes like exploration, refinement, breakthrough?
+- **Courtney**: observes that we may see a throughline from breakdown to breakthrough
+- Thinking about affect and vulnerability
+- Life context is a good code to account for people’s personal stuff
+- **Rilla**: maybe we just call it context instead 
+	- Reason for this is to connect our codes to terms that already exist in design, HCI, Comp Sci
+	- Context comes from Christopher Alexander “Design Patterns”
+- Let’s look at Kultima in terms of overlaps for our codes
+	- Specifically let’s look at Game Design Praxiology
+	- E.g. “surrounding ecosystems” could connect well to context
+- Breakthrough/breakdown comes from **Lev Vygotsky “Activity Theory”**
+	- Some of this doesn’t ring true to **Matt**: not every breakthrough followed from a breakdown
+- **Rilla**: Activity theory involves changes in context and group formations
+	- A change in context provokes a change in problem
+- **Rilla**: thinking about “re” words: 
+	- reframing, redoing, resetting, regrouping, etc
+	- Resets: I am changing direction, I am changing contexts
+- **Kalervo**: how about venting? “I have to do this, I wasted time today, groan”
+- **Vadim**: how do we code absences?
+- **Enric**: Handbook of Qualitative Research distinguishes between different kinds of coding: 
+	- **data-derived codes**: descriptive, semantic 
+	- **researcher-derived codes** -- goes beyond explicit content of data to identify latent content in data, sometimes called latent codes or conceptual codes 
+- We should consider making this distinction explicit in our codebook to help reflexivity in the researchers
+- In qualitative research, how do we take the data into account? Do we take it at face value or do we take it critically?
+- Thematic analysis approach takes up someone else’s set of codes and just applies them. Grounded theory approach is open to finding new things
+- **Matt**: the designer in me really likes the approach of thematic conversation because it tells me the kind of things I want to be doing or accounting for
+- Design is famously a wicked problem, and wicked problems are messy
+- But the more experienced a designer is, the cleaner their design process is
+- Thinking down the line, do we want to try to more explicitly survey our case study contributors, based on familiarity with technologies, experience, etc?
+- How does coding happen in relationship to grounded theory?
+	- Move from micro to macro
+	- Codes: The smallest unit of analytic information
+	- Categories: second-level concepts, similar to themes
+	- In nVivo, the quote is the code
+	- Indexing
+	- Memoing 
+	- The best advice about coding in GT is not to code at the level of noun
+	- **You want verbs, actions, abstractions**
+    - Nouns lean too much toward descriptive
+- **Rilla**: *==we are creating a design ontology stretchy enough to accommodate anything we might run into==*
