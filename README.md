@@ -1,4 +1,4 @@
-# Games as Research:
-Repository for documenting Meeting Notes
+# Materializing Design 
+
 
 An Obsidian Vault. 
