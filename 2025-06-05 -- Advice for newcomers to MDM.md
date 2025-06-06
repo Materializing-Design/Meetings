@@ -17,7 +17,8 @@
 Marc-Andre Lajeunese fixed the owl for us. HOO-ray!!!! 
 
 ## Notes 
-(originally a google doc [find here](https://docs.google.com/document/d/1_YjecssFp_9ERxxMwWniR_IFkwhPFXACkwWfz5SzndM/edit?pli=1&tab=t.0). 
+(originally a google doc [find here](https://docs.google.com/document/d/1_YjecssFp_9ERxxMwWniR_IFkwhPFXACkwWfz5SzndM/edit?pli=1&tab=t.0))
+
 
 Please add suggestions here based on your experience of using MDM.
 
